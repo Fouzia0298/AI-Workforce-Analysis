@@ -2,7 +2,7 @@
 
 A comprehensive analysis of AI job market trends, roles, salaries, and hiring patterns using data visualization.
 
-![AI Workforce Dashboard Screenshot](AI-workforce-analysis.PNG)
+![AI Workforce Dashboard Screenshot](https://github.com/Fouzia0298/AI-Workforce-Analysis/blob/main/AI%20workforce%20analysis.PNG)
 
 ## 📌 Project Overview
 
